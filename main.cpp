@@ -7,7 +7,7 @@ void greet()
 	std::cout << "This is a simple C++ program.\n";
 }
 
-void sol();
+void Solution();
 
 int main()
 {
