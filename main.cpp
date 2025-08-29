@@ -7,6 +7,8 @@ void greet()
 	std::cout << "This is a simple C++ program.\n";
 }
 
+void conflict();
+
 int main()
 {
 	greet();
